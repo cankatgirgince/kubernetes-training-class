@@ -1,1 +1,3 @@
-# kubernetes-training-class
+# Docker version check
+
+docker --version
